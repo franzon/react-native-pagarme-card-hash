@@ -1,5 +1,8 @@
 # react-native-pagarme-card-hash
 
+> ⚠️ **IMPORTANT: this repository will no longer get updates.**
+> I have created a new library which supports React Native, Expo, browser and Node: [pagarme-card-hash](https://github.com/franzon/pagarme-card-hash).
+
 React Native module for generating pagar.me card hashes
 
 ![npm](https://img.shields.io/npm/v/react-native-pagarme-card-hash)
